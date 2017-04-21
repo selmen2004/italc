@@ -47,4 +47,4 @@ Before starting the implementation of a new feature, please always file an issue
 ## More Information
 
 * http://italc.sourceforge.net/
-* http://italc.sourceforge.net/wiki/
+* https://sourceforge.net/p/italc/wiki/Home/
